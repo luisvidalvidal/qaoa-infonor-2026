@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Si utiliza este software o sus datos de reproducción, cite este depósito."
+type: software
+title: "QAOA INFONOR 2026: código y datos reproducibles para la priorización sectorial"
+version: 1.0.0
+authors:
+  - family-names: "Vidal Vidal"
+    given-names: "Luis Hernán"
+    orcid: "https://orcid.org/0000-0001-8082-084X"
+  - family-names: "Pérez Sandoval"
+    given-names: "María Soledad"
+    orcid: "https://orcid.org/0009-0009-3054-4694"
+repository-code: "https://github.com/luisvidalvidal/qaoa-infonor-2026"
+url: "https://github.com/luisvidalvidal/qaoa-infonor-2026"
+abstract: >-
+  Material computacional del artículo Computación cuántica híbrida para la
+  priorización sectorial: prueba de concepto con QAOA. Incluye la matriz
+  insumo-producto regional de 2016 digitalizada según el material de los autores,
+  simulación exacta de vector de estado para 4, 6 y 8 qubits, optimización COBYLA,
+  controles clásicos, registros de 690 optimizaciones, pruebas de reproducibilidad
+  y un notebook autónomo para Google Colab. Es una prueba de concepto y no
+  demuestra ventaja cuántica. La matriz no representa un diagnóstico económico
+  regional actual.
+keywords:
+  - QAOA
+  - reproducibility
+  - input-output analysis
+  - Los Ríos
+  - quantum simulation
