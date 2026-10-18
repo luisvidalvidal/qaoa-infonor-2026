@@ -1,0 +1,27 @@
+{
+  "optimizations_retrained": 690,
+  "max_absolute_differences": {
+    "energy": 0.0,
+    "probability": 0.0,
+    "parameter": 0.0,
+    "summary": 0.0
+  },
+  "runs_with_changed_termination": 0,
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "alpha": 0.35,
+    "penalty": 3.0,
+    "maxiter": 420,
+    "seeds": [
+      20260830,
+      20260831,
+      20260832,
+      20260833,
+      20260834
+    ],
+    "scaling": "s_i=(r_i-min_all18 r)/(max_all18 r-min_all18 r)"
+  },
+  "identical_numeric_results": true
+}

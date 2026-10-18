@@ -1,0 +1,67 @@
+[
+  {
+    "file": "QAOA_INFONOR_2026.docx",
+    "sha256": "be8293ae79553664b0d2594ef327ed8d163355b150c5685a246d2e9068754f54",
+    "bytes": 742666
+  },
+  {
+    "file": "README(1).md",
+    "sha256": "73ee44c5990fa785ee234aa550b398ab3d983fa1e3bbfab1095a22f07e54d7ab",
+    "bytes": 2928
+  },
+  {
+    "file": "candidate_W(1).csv",
+    "sha256": "572920b1bda1a1445f51deee481ebbad1e0e983381be759d9b25bbfdf7c62112",
+    "bytes": 1483
+  },
+  {
+    "file": "circuit_example_n4(1).csv",
+    "sha256": "f9c477937a2ae3e7c5bc21be1dccce7dbe1b0720f21644d678dacc9610bd011b",
+    "bytes": 1418
+  },
+  {
+    "file": "classical_audit(1).json",
+    "sha256": "0ee1bcd812ef2d4bb0dd9ba5ac54d1584db7c157f2a3b0d3ee1a4e4c89da38ac",
+    "bytes": 2902
+  },
+  {
+    "file": "classical_audit(1).py",
+    "sha256": "fbbdfcd70a29bf9392eccd347e4d75fd4d7a4520472decf6fdea6e02fe51c5c8",
+    "bytes": 2405
+  },
+  {
+    "file": "economic_coefficients(1).csv",
+    "sha256": "f33a299a1546705d622c8215851906c8447cd46b795707cc5db53ff909b1adcb",
+    "bytes": 1851
+  },
+  {
+    "file": "experiment_reproducible(1).py",
+    "sha256": "431724f838f4d05c51276a3a783f7589212b7bdf3bf1a468cc044243b8912a3c",
+    "bytes": 8179
+  },
+  {
+    "file": "experiment_results(1).json",
+    "sha256": "3fa39819c9426109c3d826d1a7775a664fa882c34bfd81c52ac94e49cce748f5",
+    "bytes": 4162542
+  },
+  {
+    "file": "input_output_2016(1).csv",
+    "sha256": "57b82979c560fc9ebd60355a93204adce665f10b70901d804036ab67a88548d7",
+    "bytes": 1990
+  },
+  {
+    "file": "rebuild_experiment(1).py",
+    "sha256": "28f6084fb1c828dcc75afa85f6f0a3c85b81796edcdd8ffb1abf80e3990258dc",
+    "bytes": 2304
+  },
+  {
+    "file": "requirements(1).txt",
+    "sha256": "1668a3152e33680d94637b13421c15e68bd97cd8701f7f555c691f5bc5c0b9f3",
+    "bytes": 27
+  },
+  {
+    "file": "test_circuit_equivalence(1).py",
+    "sha256": "b01776e036189594aa2609371ee8e8230a6dd6dd826788e676354cda79adb166",
+    "bytes": 4241
+  }
+]

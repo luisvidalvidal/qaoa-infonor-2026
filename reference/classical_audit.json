@@ -1,0 +1,119 @@
+[
+  {
+    "n": 4,
+    "k": 2,
+    "greedy": {
+      "selected": [
+        "Alimentos, bebidas y tabaco",
+        "Silvoagropecuario"
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "sector": "Alimentos, bebidas y tabaco",
+          "marginal_gain": 1.0,
+          "cumulative_score": 1.0
+        },
+        {
+          "step": 2,
+          "sector": "Silvoagropecuario",
+          "marginal_gain": 0.6375416724058638,
+          "cumulative_score": 1.6375416724058638
+        }
+      ],
+      "final_score": 1.6375416724058638,
+      "state_id": 3,
+      "matches_exact": true
+    },
+    "penalty": {
+      "strict_threshold": 0.651867816323042,
+      "penalty_used": 3.0,
+      "cost_gap_best_infeasible_minus_optimum": 2.3481321836769578
+    }
+  },
+  {
+    "n": 6,
+    "k": 3,
+    "greedy": {
+      "selected": [
+        "Alimentos, bebidas y tabaco",
+        "Silvoagropecuario",
+        "Pesca"
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "sector": "Alimentos, bebidas y tabaco",
+          "marginal_gain": 1.0,
+          "cumulative_score": 1.0
+        },
+        {
+          "step": 2,
+          "sector": "Silvoagropecuario",
+          "marginal_gain": 0.6375416724058638,
+          "cumulative_score": 1.6375416724058638
+        },
+        {
+          "step": 3,
+          "sector": "Pesca",
+          "marginal_gain": 0.651867816323042,
+          "cumulative_score": 2.289409488728906
+        }
+      ],
+      "final_score": 2.289409488728906,
+      "state_id": 7,
+      "matches_exact": true
+    },
+    "penalty": {
+      "strict_threshold": 0.5541105274585041,
+      "penalty_used": 3.0,
+      "cost_gap_best_infeasible_minus_optimum": 2.445889472541496
+    }
+  },
+  {
+    "n": 8,
+    "k": 4,
+    "greedy": {
+      "selected": [
+        "Alimentos, bebidas y tabaco",
+        "Silvoagropecuario",
+        "Pesca",
+        "Textil, prendas de vestir y cuero"
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "sector": "Alimentos, bebidas y tabaco",
+          "marginal_gain": 1.0,
+          "cumulative_score": 1.0
+        },
+        {
+          "step": 2,
+          "sector": "Silvoagropecuario",
+          "marginal_gain": 0.6375416724058638,
+          "cumulative_score": 1.6375416724058638
+        },
+        {
+          "step": 3,
+          "sector": "Pesca",
+          "marginal_gain": 0.651867816323042,
+          "cumulative_score": 2.289409488728906
+        },
+        {
+          "step": 4,
+          "sector": "Textil, prendas de vestir y cuero",
+          "marginal_gain": 0.5541105274585041,
+          "cumulative_score": 2.84352001618741
+        }
+      ],
+      "final_score": 2.84352001618741,
+      "state_id": 15,
+      "matches_exact": true
+    },
+    "penalty": {
+      "strict_threshold": 0.2653803865096198,
+      "penalty_used": 3.0,
+      "cost_gap_best_infeasible_minus_optimum": 2.73461961349038
+    }
+  }
+]
