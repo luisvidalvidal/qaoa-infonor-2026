@@ -3,8 +3,11 @@
 Material del artículo **Computación cuántica híbrida para la priorización sectorial: prueba de concepto con QAOA**
 
 **Hybrid quantum computing for sector prioritization: a QAOA proof of concept**
+
 Luis Hernán Vidal Vidal¹. ORCID iD: 0000-0001-8082-084X
+
 María Soledad Pérez Sandoval¹. ORCID iD: 0009-0009-3054-4694
+
 ¹Quantum NYX SpA. Valdivia, Chile. E-mail: lvidal@lek.cl; soledad.perez@lek.cl
 
 Simulación clásica exacta del circuito QAOA; **no demuestra ventaja cuántica**. No requiere Qiskit, GPU, cuenta de proveedor cuántico ni claves API.
