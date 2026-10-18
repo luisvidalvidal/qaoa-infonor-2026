@@ -1,6 +1,8 @@
 # QAOA INFONOR 2026 — material reproducible
 
-Material del artículo **Computación cuántica híbrida para la priorización sectorial: prueba de concepto con QAOA**
+Material del artículo: 
+
+**Computación cuántica híbrida para la priorización sectorial: prueba de concepto con QAOA**
 
 **Hybrid quantum computing for sector prioritization: a QAOA proof of concept**
 
