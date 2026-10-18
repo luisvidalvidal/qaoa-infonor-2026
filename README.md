@@ -1,6 +1,11 @@
 # QAOA INFONOR 2026 — material reproducible
 
-Material del artículo **Computación cuántica híbrida para la priorización sectorial: prueba de concepto con QAOA**, de Luis Hernán Vidal Vidal y María Soledad Pérez Sandoval.
+Material del artículo **Computación cuántica híbrida para la priorización sectorial: prueba de concepto con QAOA**
+
+**Hybrid quantum computing for sector prioritization: a QAOA proof of concept**
+Luis Hernán Vidal Vidal¹. ORCID iD: 0000-0001-8082-084X
+María Soledad Pérez Sandoval¹. ORCID iD: 0009-0009-3054-4694
+¹Quantum NYX SpA. Valdivia, Chile. E-mail: lvidal@lek.cl; soledad.perez@lek.cl
 
 Simulación clásica exacta del circuito QAOA; **no demuestra ventaja cuántica**. No requiere Qiskit, GPU, cuenta de proveedor cuántico ni claves API.
 
@@ -58,24 +63,9 @@ Resultados nuevos en `outputs/`. Los registros suministrados permanecen en `refe
 
 No se incluye una licencia de redistribución: los autores deben definirla y comprobar los permisos de los datos antes de atribuir una licencia al conjunto. La ausencia de licencia no equivale a dominio público. El Word no se duplica en el repositorio; es el documento de referencia del encargo.
 
-## Publicar en GitHub
-
-Descomprima el ZIP y suba **el contenido** de `qaoa-infonor/`, conservando carpetas. También puede usar:
-
-```bash
-git init
-git add .
-git commit -m "Add reproducible QAOA INFONOR experiment"
-git branch -M main
-git remote add origin https://github.com/USUARIO/REPOSITORIO.git
-git push -u origin main
-```
-
-Reemplace `USUARIO/REPOSITORIO` por el repositorio creado en su cuenta. Después podrá abrir el notebook desde la pestaña GitHub de Colab. Para una entrega científica, cree una etiqueta de versión y cite la URL y el commit de esa versión. No se ha publicado ningún repositorio desde este paquete.
-
 ## Datos y alcance
 
-MIP regional estimada de 2016, digitalizada según el material recibido. Fuente declarada: Miranda Castillo et al. (2019), *La evolución económica de la Región de Los Ríos desde su creación, a partir de un análisis input-output*, DOI 10.25115/eea.v37i1.2581. Esta entrega verifica la coherencia de los archivos suministrados; no verifica de nuevo la digitalización contra el artículo fuente.
+La MIP estimada corresponde a 2016, no a la economía regional actual. Fuente declarada: J. C. Miranda Castillo, C. Ramos Carvajal, R. Reyes Irigoyen, F. Acum Boassi y L. H. Vidal Vidal, “La evolución económica de la Región de Los Ríos desde su creación, a partir de un análisis input-output”, Estud. Econ. Apl., vol. 37, no. 1, pp. 170–191, 2019, doi: 10.25115/eea.v37i1.2581. Se audita el material entregado; no se vuelve a validar la digitalización contra esa publicación.
 
 `docs/METODOLOGIA.md` explica los límites de las conclusiones y el vínculo entre el código y las tablas del paper.
 
