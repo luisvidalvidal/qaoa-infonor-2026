@@ -1,6 +1,6 @@
 # QAOA INFONOR 2026 — material reproducible
 
-Material del artículo: 
+Material del artículo, presentado a Congreso INFONOR 2026,Chile: 
 
 **Computación cuántica híbrida para la priorización sectorial: prueba de concepto con QAOA**
 
